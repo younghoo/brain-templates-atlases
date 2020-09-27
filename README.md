@@ -5,7 +5,7 @@
 你可以通过提交issue或者pull request的方式参与进来！
 
 ## 模板(templates)
-* [MNI305](docs/MNI305.md)
+* [MNI305](docs/MNI305.md) | [Colin27](docs/Colin27.md) | [MNI152-Linear](docs/MNI152-Linear.md)
 
 ## 地图(atlases)
 
