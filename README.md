@@ -5,12 +5,14 @@
 你可以通过提交issue或者pull request的方式参与进来！
 
 ## 模板(templates)
-* [MNI305](docs/MNI305.md) | [Colin27](docs/Colin27.md) | [MNI152-Linear](docs/MNI152-Linear.md) | [MNI152-Nonlinear](docs/MNI152-Nonliear.md) | [MNI152-Nonlinear-2009](docs/MNI152-Nonlinear-2009.md)
+
+[MNI305](docs/MNI305.md) | [Colin27](docs/Colin27.md) | [MNI152-Linear](docs/MNI152-Linear.md) | [MNI152-Nonlinear](docs/MNI152-Nonliear.md) | [MNI152-Nonlinear-2009](docs/MNI152-Nonlinear-2009.md)
 
 ## 地图(atlases)
+
+[Talairach](docs/Talairach.md) 
 
 ## 许可证
 
 本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
-
 
