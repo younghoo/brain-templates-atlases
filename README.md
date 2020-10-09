@@ -10,7 +10,7 @@
 
 ## 地图(atlases)
 
-[Talairach](docs/Talairach.md) | [Desikan-Killiany](docs/Desikan-Killiany.md) | [Destrieux](docs/Destrieux.md) | [DKT](docs/DKT.md)
+[Talairach](docs/Talairach.md) | [Desikan-Killiany](docs/Desikan-Killiany.md) | [Destrieux](docs/Destrieux.md) | [DKT](docs/DKT.md) | [AAL](docs/AAL.md)
 
 ## 许可证
 
