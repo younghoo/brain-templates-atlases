@@ -10,9 +10,8 @@
 
 ## 地图(atlases)
 
-[Talairach](docs/Talairach.md) | [Desikan-Killiany](docs/Desikan-Killiany.md) | [Destrieux](docs/Destrieux.md) | [DKT](docs/DKT.md) | [AAL](docs/AAL.md) | [Harvard-Oxford](docs/Harvard-Oxford.md) | [Yeo2011](docs/Yeo2011.md)
+[Talairach](docs/Talairach.md) | [Desikan-Killiany](docs/Desikan-Killiany.md) | [Destrieux](docs/Destrieux.md) | [DKT](docs/DKT.md) | [AAL](docs/AAL.md) | [Harvard-Oxford](docs/Harvard-Oxford.md) | [Bellec2010](Bellec2010.md) | [Yeo2011](docs/Yeo2011.md) | [Craddock2012](Craddock2012.md) | [Schaefer2018](docs/Schaefer2018.md) 
 
 ## 许可证
 
 本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
-
