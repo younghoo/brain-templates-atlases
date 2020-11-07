@@ -6,7 +6,7 @@
 
 ## 模板(templates)
 
-[MNI305](docs/MNI305.md) | [Colin27](docs/Colin27.md) | [MNI152-Linear](docs/MNI152-Linear.md) | [MNI152-Nonlinear](docs/MNI152-Nonliear.md) | [MNI152-Nonlinear-2009](docs/MNI152-Nonlinear-2009.md) | [fsaverage](docs/fsaverage.md)
+[MNI305](docs/MNI305.md) | [Colin27](docs/Colin27.md) | [MNI152-Linear](docs/MNI152-Linear.md) | [MNI152-Nonlinear](docs/MNI152-Nonliear.md) | [MNI152-Nonlinear-2009](docs/MNI152-Nonlinear-2009.md) | [fsaverage](docs/fsaverage.md) | [Dong2020](docs/Dong2020.md) | [CHN-PD](docs/CHN-PD.md) | [CN200](docs/CN200.md) | [sCN200](docs/sCN200.md)
 
 ## 地图(atlases)
 
