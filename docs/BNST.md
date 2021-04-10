@@ -2,7 +2,7 @@
 
 ## 构建方法
 
-* 在7T分辨率为0.7mm的T1图像上，手动划分36名被试的Bed Nucleus of the Stria Terminalis (BNST)
+* 在7T、分辨率为0.7mm的T1图像上，手动划分36名被试的Bed Nucleus of the Stria Terminalis (BNST)
 * 位于ICBM 2009b Nonlinear Asymmetric Template空间
 
 ## 下载地址
