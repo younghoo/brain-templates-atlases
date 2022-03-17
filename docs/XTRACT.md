@@ -34,4 +34,4 @@
 
 ## 参考
 
-Warrington, S., Bryant, K. L., Khrapitchev, A. A., Sallet, J., Charquero-Ballester, M., Douaud, G., Jbabdi, S., Mars, R. B., & Sotiropoulos, S. N. (2020). XTRACT - Standardised protocols for automated tractography in the human and macaque brain. NeuroImage, 217, 116923. https://doi.org/10.1016/j.neuroimage.2020.116923
+* Warrington, S., Bryant, K. L., Khrapitchev, A. A., Sallet, J., Charquero-Ballester, M., Douaud, G., Jbabdi, S., Mars, R. B., & Sotiropoulos, S. N. (2020). XTRACT - Standardised protocols for automated tractography in the human and macaque brain. NeuroImage, 217, 116923. https://doi.org/10.1016/j.neuroimage.2020.116923
