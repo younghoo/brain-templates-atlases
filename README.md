@@ -10,7 +10,7 @@
 
 ## 地图(atlases)
 
-[Talairach](docs/Talairach.md) | [Desikan-Killiany](docs/Desikan-Killiany.md) | [Destrieux](docs/Destrieux.md) | [DKT](docs/DKT.md) | [AAL](docs/AAL.md) | [Harvard-Oxford](docs/Harvard-Oxford.md) | [Bellec2010](docs/Bellec2010.md) | [Yeo2011](docs/Yeo2011.md) | [Craddock2012](docs/Craddock2012.md) | [Schaefer2018](docs/Schaefer2018.md) | [Brainnetome](docs/Brainnetome.md) | [JHU](docs/JHU.md) | [MSA](docs/MSA.md) | [PMVT](docs/PMVT.md) | [BNST](docs/BNST.md) | [XTRACT](docs/XTRACT.md)
+[Talairach](docs/Talairach.md) | [Desikan-Killiany](docs/Desikan-Killiany.md) | [Destrieux](docs/Destrieux.md) | [DKT](docs/DKT.md) | [AAL](docs/AAL.md) | [Harvard-Oxford](docs/Harvard-Oxford.md) | [Bellec2010](docs/Bellec2010.md) | [Yeo2011](docs/Yeo2011.md) | [Craddock2012](docs/Craddock2012.md) | [Schaefer2018](docs/Schaefer2018.md) | [Seitzman2020](docs/Seitzman2020.md) | [Brainnetome](docs/Brainnetome.md) | [JHU](docs/JHU.md) | [MSA](docs/MSA.md) | [PMVT](docs/PMVT.md) | [BNST](docs/BNST.md) | [XTRACT](docs/XTRACT.md)
 
 ## 许可证
 
