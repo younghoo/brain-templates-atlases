@@ -24,9 +24,9 @@ do
   last_item=${fnames[${#fnames[*]}-1]}
   if [[ $curr_file != ${last_item} ]]
   then
-      echo -n "[${curr_name}](doc/$curr_file) | " >> ../README.md
+      echo -n "[${curr_name}](doc/01_templates/$curr_file) | " >> ../README.md
   else
-      echo "[${curr_name}](doc/$curr_file)" >> ../README.md
+      echo "[${curr_name}](doc/01_templates/$curr_file)" >> ../README.md
   fi
 done
 echo >> ../README.md
@@ -41,9 +41,9 @@ do
   last_item=${fnames[${#fnames[*]}-1]}
   if [[ $curr_file != ${last_item} ]]
   then
-      echo -n "[${curr_name}](doc/$curr_file) | " >> ../README.md
+      echo -n "[${curr_name}](doc/02_atlases/$curr_file) | " >> ../README.md
   else
-      echo "[${curr_name}](doc/$curr_file)" >> ../README.md
+      echo "[${curr_name}](doc/02_atlases/$curr_file)" >> ../README.md
   fi
 done
 echo >> ../README.md
@@ -58,9 +58,9 @@ do
   last_item=${fnames[${#fnames[*]}-1]}
   if [[ $curr_file != ${last_item} ]]
   then
-      echo -n "[${curr_name}](doc/$curr_file) | " >> ../README.md
+      echo -n "[${curr_name}](doc/03_monkey/$curr_file) | " >> ../README.md
   else
-      echo "[${curr_name}](doc/$curr_file)" >> ../README.md
+      echo "[${curr_name}](doc/03_monkey/$curr_file)" >> ../README.md
   fi
 done
 echo >> ../README.md
