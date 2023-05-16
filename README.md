@@ -1,21 +1,16 @@
-# 大脑模板和地图
+## 常用图像模板和分区模板
 
-该项目汇总基于神经影像数据的大脑模板和地图的相关信息，方便大家查找。
+这个仓库原计划是汇总图像模板和分区模板，经过一段时间实践后发现，我能够接触和使用的模板和分区很有限，而且几乎没有其他人参与进来。所以今后这里只汇总我自己使用过或者经常使用的一些模板和分区，方便自己查阅。
 
-你可以通过提交issue或者pull request的方式参与进来！
+### Templates
 
-## 模板(templates)
+[Colin27](doc/Colin27.md) | [fsaverage](doc/fsaverage.md) | [MNI152-Linear](doc/MNI152-Linear.md) | [MNI152-Nonlinear-2009](doc/MNI152-Nonlinear-2009.md) | [MNI152-Nonlinear](doc/MNI152-Nonlinear.md) | [MNI305](doc/MNI305.md)
 
-[MNI305](docs/MNI305.md) | [Colin27](docs/Colin27.md) | [MNI152-Linear](docs/MNI152-Linear.md) | [MNI152-Nonlinear](docs/MNI152-Nonliear.md) | [MNI152-Nonlinear-2009](docs/MNI152-Nonlinear-2009.md) | [fsaverage](docs/fsaverage.md) | [Dong2020](docs/Dong2020.md) | [CHN-PD](docs/CHN-PD.md) | [CN200](docs/CN200.md) | [sCN200](docs/sCN200.md)
+### Atlases
 
-## 地图(atlases)
+[AAL](doc/AAL.md) | [Bellec2010](doc/Bellec2010.md) | [BNST](doc/BNST.md) | [Brainnetome](doc/Brainnetome.md) | [Craddock2012](doc/Craddock2012.md) | [Destrieux](doc/Destrieux.md) | [DK](doc/DK.md) | [DKT](doc/DKT.md) | [Gordon2016](doc/Gordon2016.md) | [Harvard-Oxford](doc/Harvard-Oxford.md) | [JHU](doc/JHU.md) | [MSA](doc/MSA.md) | [Schaefer2018](doc/Schaefer2018.md) | [Seitzman2020](doc/Seitzman2020.md) | [Talairach](doc/Talairach.md) | [XTRACT](doc/XTRACT.md) | [Yeo2011](doc/Yeo2011.md)
 
-[Talairach](docs/Talairach.md) | [Desikan-Killiany](docs/Desikan-Killiany.md) | [Destrieux](docs/Destrieux.md) | [DKT](docs/DKT.md) | [AAL](docs/AAL.md) | [Harvard-Oxford](docs/Harvard-Oxford.md) | [Bellec2010](docs/Bellec2010.md) | [Yeo2011](docs/Yeo2011.md) | [Craddock2012](docs/Craddock2012.md) | [Schaefer2018](docs/Schaefer2018.md) | [Seitzman2020](docs/Seitzman2020.md) | [Brainnetome](docs/Brainnetome.md) | [JHU](docs/JHU.md) | [MSA](docs/MSA.md) | [PMVT](docs/PMVT.md) | [BNST](docs/BNST.md) | [XTRACT](docs/XTRACT.md)
+### Monkey
 
-## 猴子模板和地图
+[CHARM](doc/CHARM.md) | [D99](doc/D99.md) | [NMT](doc/NMT.md) | [SARM](doc/SARM.md)
 
-[CHARM](docs/CHARM.md) | [D99](docs/D99.md) | [NMT](docs/NMT.md) | [SARM](docs/SARM.md)
-
-## 许可证
-
-本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
