@@ -9,9 +9,9 @@ then
     rm ../README.md
 fi
 ## loop through each file
-echo "## 常用图像模板和分区模板" >> ../README.md
+echo "## 常用脑模板和分区" >> ../README.md
 echo >> ../README.md
-echo "这个仓库原计划是汇总图像模板和分区模板，经过一段时间实践后发现，我能够接触和使用的模板和分区很有限，而且几乎没有其他人参与进来。所以今后这里只汇总我自己使用过或者经常使用的一些模板和分区，方便自己查阅。" >> ../README.md
+echo "这个仓库原计划是汇总脑模板和分区信息，经过一段时间实践后发现，我能够接触和使用的模板和分区很有限，而且几乎没有其他人参与进来。所以今后这里只汇总我自己使用过或者经常使用的一些模板和分区，方便自己查阅。" >> ../README.md
 echo >> ../README.md
 ## Templates
 echo "### Templates" >> ../README.md
